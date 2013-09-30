@@ -18,12 +18,12 @@
   },
   "require": {
     "php": ">=5.4.0, <6.0.0",
-    "europaphp/config": "dev-master",
-    "europaphp/di": "dev-master",
-    "europaphp/exception": "dev-master",
-    "europaphp/filter": "dev-master",
-    "europaphp/fs": "dev-master",
-    "europaphp/request": "dev-master",
-    "europaphp/router": "dev-master"
+    "europaphp/component-config": "dev-master",
+    "europaphp/component-di": "dev-master",
+    "europaphp/component-exception": "dev-master",
+    "europaphp/component-filter": "dev-master",
+    "europaphp/component-fs": "dev-master",
+    "europaphp/component-request": "dev-master",
+    "europaphp/component-router": "dev-master"
   }
 }
